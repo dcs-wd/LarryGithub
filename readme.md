@@ -1,5 +1,5 @@
-#Larry Ploter
+# Larry Ploter
 
-Esta serie de libros cuentan la historia de gran hacker.
+Esta serie de libros cuentan la historia de un gran hacker llamado Larry Plotter.
 
-**Daniel Castillo**
+**Daniel Castillo**, Git lover.
